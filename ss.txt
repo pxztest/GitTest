@@ -1,0 +1,35 @@
+[33mcommit 87a68e628b9855107598e4869d1c4e671e62ffa3[m[33m ([m[1;36mHEAD -> [m[1;32mzxp_show[m[33m)[m
+Author: pixiaozou <2363827804@qq.com>
+Date:   Fri Dec 13 19:43:33 2019 +0800
+
+    测试提交demo
+
+[33mcommit 2a1f81f5f90b02bd826ba4049b4ea0e0037d855a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pixiaozou <2363827804@qq.com>
+Date:   Fri Dec 13 19:26:58 2019 +0800
+
+    添加了忽略文件配置
+
+[33mcommit 66480237d87ebe5289a9f909cb26ca83b0ea17f6[m
+Author: pixiaozou <2363827804@qq.com>
+Date:   Fri Dec 13 19:14:32 2019 +0800
+
+    提交了jdbc.conf
+
+[33mcommit b92549a2e266722e3174ecc9feb24cfeecf7708c[m[33m ([m[1;32mzxp_pay[m[33m)[m
+Author: pixiaozou <2363827804@qq.com>
+Date:   Fri Dec 13 17:20:20 2019 +0800
+
+    我提交了text1.txt
+
+[33mcommit d656fb18ee562764d0f5dacffaad92cbf46a9724[m
+Author: pixiaozou <2363827804@qq.com>
+Date:   Fri Dec 13 16:53:52 2019 +0800
+
+    提交README
+
+[33mcommit 57ab7888f6480f2e7f8b1f8df751872eefe20e4f[m
+Author: pingxiaozou <58251357+pingxiaozou@users.noreply.github.com>
+Date:   Fri Dec 13 16:25:22 2019 +0800
+
+    Initial commit
